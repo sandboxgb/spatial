@@ -1,0 +1,21 @@
+name: spatial
+description: Spatial Widget Container for Flutter
+repository: https://github.com/sandboxgb/spatial/tree/main
+version: 1.0.0
+homepage:
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+flutter:
