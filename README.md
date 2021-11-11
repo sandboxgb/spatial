@@ -2,6 +2,8 @@
 
 This package contains a Container to add spatial properties like rotation and position for widgets in a 3D simulated space. 
 
+![mp4](https://github.com/sandboxgb/spatial/blob/main/files/preview.mp4?raw=true)
+
 The container is binded to a SpatialContext (The 3D state of a child widget)
 
 The SpatialContext enable transformation functions like move() or rotate()
