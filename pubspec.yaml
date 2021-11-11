@@ -1,7 +1,7 @@
 name: spatial
 description: Spatial Widget Container for Flutter
 repository: https://github.com/sandboxgb/spatial/tree/main
-version: 1.0.0
+version: 1.0.0+1
 homepage:
 
 environment:
