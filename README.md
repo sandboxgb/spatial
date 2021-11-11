@@ -4,6 +4,9 @@ This package contains a Container to add spatial properties like rotation and po
 
 ![Preview](/files/preview.gif)
 
+![Preview](https://raw.githubusercontent.com/sandboxgb/spatial/main/.github/images/preview.gif)
+
+
 The container is binded to a SpatialContext (The 3D state of a child widget)
 
 The SpatialContext enable transformation functions like move() or rotate()
